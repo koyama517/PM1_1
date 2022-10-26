@@ -9,6 +9,8 @@ int main()
 
     std::cout << "New branch changed\n";
 
+    std::cout << "third branch\n";
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
